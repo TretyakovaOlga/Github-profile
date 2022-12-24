@@ -8,5 +8,6 @@
 </br>
 В настоящий момент ищу удалённую или частично удаленную работу.</br>
 </br>
-Telegram: @hartahana_is_in_touch
-E-mail: treyuakova_op@mail.ru
+Контакты </br>
+Telegram: @hartahana_is_in_touch</br>
+E-mail: tretyakova_op@mail.ru
