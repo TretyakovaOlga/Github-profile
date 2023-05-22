@@ -1,5 +1,4 @@
-Привет.</br>
-В репозитории [Data Science Portfolio](http://github.com/TretyakovaOlga/Data-Science-Projects) вы можете ознакомиться с моими проектами в области DS и DA.
+Привет. Меня зовут Ольга, в репозитории [Data Science Portfolio](http://github.com/TretyakovaOlga/Data-Science-Projects) вы можете ознакомиться с моими проектами в области DS и DA.
 </br>
 </br>
 В 2022 году я закончила повышение квалификации в Яндекс.Практикуме. Сейчас прохожу обучение в [Deep Learning School](https://stepik.org/org/dlschool) от МФТИ.</br>
